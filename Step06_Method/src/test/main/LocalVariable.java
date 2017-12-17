@@ -23,7 +23,7 @@ public class LocalVariable {
 			int num=3;
 			System.out.println(num);
 		}
-		
+		//중괄호안에 있는 변수는 지역변수!
 	
 }
 // 변수는 자신이 속한 중괄호 내에서만 접근이 가능하다 떄문에 속한 영역이 다르면 이름이 동일할지라도 문제가 안된다.
